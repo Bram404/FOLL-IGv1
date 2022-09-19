@@ -1,6 +1,6 @@
 <?php
-# Author : SanzzXD
-# Instagram @sanzzwibutzy_
+# Author : Bram404
+# Instagram @bramantyoooo_
 
 error_reporting(0); //report null
 include"set.php"; //ambil data di file function.php
@@ -23,8 +23,8 @@ animasi($p."{$k}--------------------------------------------------{$p}\n");
 animasi($p."║ {$k}▶ {$p}Script  : {$h}Auto Follower Ig                  {$p}║\n");
 animasi($p."║ {$k}▶ {$p}Version : v.01                              {$p}║\n");
 animasi($m."╚{$p}═══════════════════════════════════════════════{$m}╝\n");
-animasi($p." {$k}◆ {$p}Youtube    : SanzzXD\n");
-animasi($p." {$k}◆ {$p}Github : https://github.com/SanzzXD\n");
+animasi($p." {$k}◆ {$p}Youtube    : Cuan bareng Bram\n");
+animasi($p." {$k}◆ {$p}Github : https://github.com/Bram404\n");
 animasi($m."═{$p}═════════════{$c}[ {$p}{$bmerah}●    RUNNING    ●{$end} {$c}]{$p}═════════════{$m}═\n");
 
 mengulang:
