@@ -9,7 +9,7 @@
 
 # Masukan username akun ori/asli
 # Enter the original account username
-$youser="bramantyoooo_";
+$youser="bramstore.id";
 
 # Username akun tumbal
 # Enter the username of the account that was sacrificed
