@@ -13,8 +13,8 @@ $youser="iam.cici___";
 
 # Username akun tumbal
 # Enter the username of the account that was sacrificed
-$t_user="willy__23";
+$t_user="windasarasati";
 
 # Passwoard/sandi akun tumbal
 # enter the password of the account that was sacrificed
-$t_pass="akas123";
+$t_pass="winda1234";
