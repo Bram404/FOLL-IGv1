@@ -13,8 +13,8 @@ $youser="riskaanisa2211";
 
 # Username akun tumbal
 # Enter the username of the account that was sacrificed
-$t_user="rzxvyop";
+$t_user="bramstore.id";
 
 # Passwoard/sandi akun tumbal
 # enter the password of the account that was sacrificed
-$t_pass="brama02";
+$t_pass="tiyut211";
