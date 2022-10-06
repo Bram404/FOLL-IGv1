@@ -142,6 +142,6 @@ function animasi($str)
     $arr = str_split($str);
     foreach ($arr as $az) 
     {
-        echo $az; usleep(3000);
+        echo $az; usleep(10);
     }
 }
