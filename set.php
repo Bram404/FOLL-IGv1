@@ -17,4 +17,4 @@ $t_user="rzxvyop";
 
 # Passwoard/sandi akun tumbal
 # enter the password of the account that was sacrificed
-$t_pass="brama21";
+$t_pass="brama02";
